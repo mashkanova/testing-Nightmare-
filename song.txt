@@ -4,3 +4,4 @@ standing strong
 on this their chosen battlefield
 
 text for commit #1
+text for commit #2
